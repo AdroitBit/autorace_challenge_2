@@ -1,7 +1,6 @@
 # autorace_challenge_2
 
-
-##Dependencies
+## Dependencies
 
 - opencv-python
 - opencv-contrib-python
